@@ -1,0 +1,81 @@
+{
+    "Physics": {
+      "Class 11": [
+        {"name": "Physical world and Measurement", "completed": false},
+        {"name": "Kinematics", "completed": false},
+        {"name": "Laws of Motion", "completed": false},
+        {"name": "Work, Energy and Power", "completed": false},
+        {"name": "Motion of System of Particles", "completed": false},
+        {"name": "Gravitation", "completed": false},
+        {"name": "Properties of Bulk Matter", "completed": false},
+        {"name": "Thermodynamics", "completed": false},
+        {"name": "Behaviour of Perfect Gas and Kinetic Theory", "completed": false},
+        {"name": "Oscillations and Waves", "completed": false}
+      ],
+      "Class 12": [
+        {"name": "Electrostatics", "completed": false},
+        {"name": "Current Electricity", "completed": false},
+        {"name": "Magnetic Effects of Current", "completed": false},
+        {"name": "Electromagnetic Induction", "completed": false},
+        {"name": "Alternating Current", "completed": false},
+        {"name": "Electromagnetic Waves", "completed": false},
+        {"name": "Ray Optics and Optical Instruments", "completed": false},
+        {"name": "Wave Optics", "completed": false},
+        {"name": "Dual Nature of Matter and Radiation", "completed": false},
+        {"name": "Atoms and Nuclei", "completed": false},
+        {"name": "Electronic Devices", "completed": false}
+      ]
+    },
+    "Chemistry": {
+      "Class 11": [
+        {"name": "Some Basic Concepts of Chemistry", "completed": false},
+        {"name": "Structure of Atom", "completed": false},
+        {"name": "Classification of Elements and Periodicity", "completed": false},
+        {"name": "Chemical Bonding and Molecular Structure", "completed": false},
+        {"name": "States of Matter", "completed": false},
+        {"name": "Thermodynamics", "completed": false},
+        {"name": "Equilibrium", "completed": false},
+        {"name": "Redox Reactions", "completed": false},
+        {"name": "Hydrogen", "completed": false},
+        {"name": "The s-Block Element", "completed": false},
+        {"name": "Some p-Block Elements", "completed": false},
+        {"name": "Organic Chemistry - Basic Principles & Techniques", "completed": false},
+        {"name": "Hydrocarbons", "completed": false},
+        {"name": "Environmental Chemistry", "completed": false}
+      ],
+      "Class 12": [
+        {"name": "Solid State", "completed": false},
+        {"name": "Solutions", "completed": false},
+        {"name": "Electrochemistry", "completed": false},
+        {"name": "Chemical Kinetics", "completed": false},
+        {"name": "Surface Chemistry", "completed": false},
+        {"name": "The p-Block Element", "completed": false},
+        {"name": "The d- and f-Block Elements", "completed": false},
+        {"name": "Coordination Compounds", "completed": false},
+        {"name": "Haloalkanes and Haloarenes", "completed": false},
+        {"name": "Alcohols, Phenols and Ethers", "completed": false},
+        {"name": "Aldehydes, Ketones and Carboxylic Acids", "completed": false},
+        {"name": "Organic Compounds containing Nitrogen", "completed": false},
+        {"name": "Biomolecules", "completed": false},
+        {"name": "Polymers", "completed": false},
+        {"name": "Chemistry in Everyday Life", "completed": false}
+      ]
+    },
+    "Biology": {
+      "Class 11": [
+        {"name": "Diversity of Living Organisms", "completed": false},
+        {"name": "Structural Organisation in Animals and Plants", "completed": false},
+        {"name": "Cell Structure and Function", "completed": false},
+        {"name": "Plant Physiology", "completed": false},
+        {"name": "Human Physiology", "completed": false}
+      ],
+      "Class 12": [
+        {"name": "Reproduction", "completed": false},
+        {"name": "Genetics and Evolution", "completed": false},
+        {"name": "Biology and Human Welfare", "completed": false},
+        {"name": "Biotechnology and Its Applications", "completed": false},
+        {"name": "Ecology and Environment", "completed": false}
+      ]
+    }
+  }
+  

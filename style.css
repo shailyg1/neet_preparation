@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .container {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  label, select {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  #chapterList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #chapterList li {
+    margin: 5px 0;
+  }
+  
+  #revisionMessage {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #2e7d32;
+    text-align: center;
+  }
+  
+  body {
+    background-image: url('kratiii.jpeg'); /* Replace with your image path or URL */
+    background-size: cover;       /* Cover entire page */
+    background-position: center;  /* Center the image */
+    background-repeat: no-repeat; /* Don't repeat */
+    font-family: 'Segoe UI', sans-serif;
+    color: #fff;                  /* Makes text visible on dark background */
+  }
+
+  #dashboard {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent layer for readability */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 50px auto;
+    max-width: 800px;
+  }
+  
