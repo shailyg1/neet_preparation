@@ -32,23 +32,22 @@
         {"name": "Structure of Atom", "completed": false},
         {"name": "Classification of Elements and Periodicity", "completed": false},
         {"name": "Chemical Bonding and Molecular Structure", "completed": false},
-        {"name": "States of Matter", "completed": false},
+        
         {"name": "Thermodynamics", "completed": false},
         {"name": "Equilibrium", "completed": false},
         {"name": "Redox Reactions", "completed": false},
-        {"name": "Hydrogen", "completed": false},
-        {"name": "The s-Block Element", "completed": false},
+        
         {"name": "Some p-Block Elements", "completed": false},
         {"name": "Organic Chemistry - Basic Principles & Techniques", "completed": false},
-        {"name": "Hydrocarbons", "completed": false},
-        {"name": "Environmental Chemistry", "completed": false}
+        {"name": "Hydrocarbons", "completed": false}
+        
       ],
       "Class 12": [
-        {"name": "Solid State", "completed": false},
+        
         {"name": "Solutions", "completed": false},
         {"name": "Electrochemistry", "completed": false},
         {"name": "Chemical Kinetics", "completed": false},
-        {"name": "Surface Chemistry", "completed": false},
+       
         {"name": "The p-Block Element", "completed": false},
         {"name": "The d- and f-Block Elements", "completed": false},
         {"name": "Coordination Compounds", "completed": false},
@@ -56,9 +55,8 @@
         {"name": "Alcohols, Phenols and Ethers", "completed": false},
         {"name": "Aldehydes, Ketones and Carboxylic Acids", "completed": false},
         {"name": "Organic Compounds containing Nitrogen", "completed": false},
-        {"name": "Biomolecules", "completed": false},
-        {"name": "Polymers", "completed": false},
-        {"name": "Chemistry in Everyday Life", "completed": false}
+        {"name": "Biomolecules", "completed": false}
+       
       ]
     },
     "Biology": {
